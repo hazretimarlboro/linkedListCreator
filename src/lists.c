@@ -1,6 +1,7 @@
 #include "../inc/linkedList.h"
 #include <stdlib.h>
 #include <string.h>
+#include <stdio.h>
 
 
 void freeNode(ListNode* node)
